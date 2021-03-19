@@ -1,0 +1,10 @@
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Form1.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\obj\Debug\ColorMixer.Properties.Resources.resources
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\obj\Debug\DistanceConverter.csproj.GenerateResource.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\obj\Debug\DistanceConverter.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe.config
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\bin\Debug\ColorMixer.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\bin\Debug\ColorMixer.pdb
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\obj\Debug\ColorMixer.exe
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\obj\Debug\ColorMixer.pdb
+C:\Users\tyler\source\repos\Visual-Progamming-1\ColorMixer\ColorMixer\obj\Debug\DistanceConverter.csprojAssemblyReference.cache
